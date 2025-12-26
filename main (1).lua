@@ -12374,7 +12374,7 @@ aa.cloneref=ae
 
 local af=ae(game:GetService"HttpService")
 local ah=ae(game:GetService"Players")
-local aj=ae((gethui and gethui()))
+local aj=ae((gethui and gethui())) local ak=
 
 ah.LocalPlayer or nil
 
